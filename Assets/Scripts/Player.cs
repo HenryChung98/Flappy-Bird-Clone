@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
 {
     [SerializeField] private float jumpForce = 3f; 
     private Rigidbody2D rb;
+    [SerializeField] private AudioSource jumpSound;
 
     void Start()
     {
@@ -16,6 +17,7 @@ public class Player : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0)) 
         {
+            jumpSound.Play();
             Jump();
         }
     }
