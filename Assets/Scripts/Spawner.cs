@@ -5,8 +5,8 @@ using UnityEngine;
 public class Spawner : MonoBehaviour
 {
     [SerializeField] private GameObject pipes;
-    private float maxY = 3.3f;
-    private float minY = -0.8f;
+    private float maxY = 2.8f;
+    private float minY = -2.6f;
     
     void Start()
     {

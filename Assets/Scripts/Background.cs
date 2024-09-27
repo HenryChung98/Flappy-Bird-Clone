@@ -9,8 +9,8 @@ public class Background : MonoBehaviour
     void Update()
     {
         transform.position += Vector3.left * moveSpeed * Time.deltaTime;
-        if (transform.position.x < 0.6f){
-            transform.position = new Vector3(24.45f, -1.8f, 0);
+        if (transform.position.x < -2.3f){
+            transform.position = new Vector3(20.5f, 1.9f, 0);
             }
     }
 }
