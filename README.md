@@ -1,3 +1,24 @@
+[View the project log](https://henrychung98.github.io/project/flappyBirdClone/)
+
+### Tech
+- Unity
+- C#
+
+### Sources
+- [Sprites](https://www.spriters-resource.com/fullview/59894/)
+- [Sounds](https://pixabay.com/sound-effects/)
+  
+### Features
+- Obstacle Generation
+- Scoring System
+- Game Over
+- Reset Functionality
+- Sound Effects
+
+### SomeImgs
+
+
+
 ### Background
 
 Render two background prefabs and they move to left. When background.position.x reach to out of the frame, reset position.x
