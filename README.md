@@ -17,6 +17,8 @@
 
 ### Descriptions
 
-![des1]("./descriptions/des1.png)
-![des2]("./descriptions/des2.png)
-![des3]("./descriptions/des3.gif)
+![des1](/descriptions/des1.png)
+
+![des2](/descriptions/des2.png)
+
+![des3](/descriptions/des3.gif)
