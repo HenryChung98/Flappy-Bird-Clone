@@ -14,6 +14,7 @@
 - Game Over
 - Reset Functionality
 - Sound Effects
+- animation
 
 ### Descriptions
 
